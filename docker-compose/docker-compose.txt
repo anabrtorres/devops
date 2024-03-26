@@ -1,0 +1,10 @@
+docker compose version
+
+touch compose.yaml
+compose.yaml
+docker-compose.yaml
+
+
+docker compose up
+docker compose up -d
+
